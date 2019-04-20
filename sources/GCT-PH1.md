@@ -1,8 +1,6 @@
 ### United States Census Bureau American Fact Fincer website
 
-[Population, Housing Units, Area, and Density: 2010 - County -- Census Tract  more information
-2010 Census Summary File 1](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk)
-
+Population, Housing Units, Area, and Density: 2010 - County -- Census Tract 2010 Census Summary File 1
 - Program: Decennial Census
 - Census: Census United States
 - Data Set: 2010 Census Summary File 1
